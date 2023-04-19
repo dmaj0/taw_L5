@@ -1,1 +1,0 @@
-Komunikat 'new connection' został wydrukowany w konsoli za pomocą metody console.log() w kodzie aplikacji. Komunikat został wyświetlony na konsoli w momencie, gdy nawiązywane jest nowe połączenie z aplikacją, poprzez otwarcie strony internetowej, która wykorzystuje tę aplikację.
